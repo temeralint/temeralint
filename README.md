@@ -14,7 +14,7 @@
  - [CodeWars](https://www.codewars.com/users/temeralint) [![codewars](https://www.codewars.com/users/temeralint/badges/micro)](https://www.codewars.com/users/temeralint) 
 - [VK](https://vk.com/temeralin)
 - [Telegram](https://t.me/temeralin)
-- [Instagram](https://www.instagram.com/temeralint/) - Немного сижу там
+- [Instagram](https://www.instagram.com/temeralint/) - фоток нет, мало сижу там
 
 
 

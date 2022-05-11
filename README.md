@@ -10,7 +10,7 @@
 - Изучаю React. Также работал с бэкенд(ASP.NET), разрабатывал PERN Stack приложение на Node.js
 
 **📫Соц. сети:**
-[CodeWars](https://www.codewars.com/users/temeralint/badges/small)
+-[CodeWars](https://www.codewars.com/users/temeralint/badges/small)
 
 
 

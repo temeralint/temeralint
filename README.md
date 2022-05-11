@@ -9,8 +9,13 @@
 - Git
 - Изучаю React. Также работал с бэкенд(ASP.NET), разрабатывал PERN Stack приложение на Node.js
 
-**📫Соц. сети:**
--[CodeWars](https://www.codewars.com/users/temeralint/badges/small)
+**📫Мои профили:**
+ - [CodeWars](https://www.codewars.com/users/temeralint) [![codewars](https://www.codewars.com/users/temeralint/badges/micro)](https://www.codewars.com/users/temeralint) 
+- [VK](https://vk.com/temeralin)
+- [Telegram](https://t.me/temeralin)
+- [Instagram](https://www.instagram.com/temeralint/)
+- [Youtube](https://t.me/temeralin)
+
 
 
 

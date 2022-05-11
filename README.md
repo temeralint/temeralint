@@ -1,16 +1,17 @@
-### Hi there 👋
+### Привет👋
+**Меня зовут Темирлан и я будущий React Developer**
+**Навыки:**
+- HTML, CSS
+- SASS, SCSS
+- Bootstrap
+- JavaScript
+- Базы данных
+- Git
+- Изучаю React. Также работал с бэкенд(ASP.NET), разрабатывал PERN Stack приложение на Node.js
 
-<!--
-**temeralint/temeralint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**📫Соц. сети:**
+[CodeWars](https://www.codewars.com/users/temeralint/badges/small)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+

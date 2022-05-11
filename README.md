@@ -14,8 +14,6 @@
 - [VK](https://vk.com/temeralin)
 - [Telegram](https://t.me/temeralin)
 - [Instagram](https://www.instagram.com/temeralint/)
-- [Youtube](https://t.me/temeralin)
-
 
 
 

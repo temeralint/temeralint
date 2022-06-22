@@ -7,7 +7,7 @@
 - JavaScript
 - Базы данных
 - Git
-- React
+- React, Redux
 
 **📫Мои профили:**
  - [CodeWars](https://www.codewars.com/users/temeralint) [![codewars](https://www.codewars.com/users/temeralint/badges/micro)](https://www.codewars.com/users/temeralint) 

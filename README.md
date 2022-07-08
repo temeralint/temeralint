@@ -5,7 +5,7 @@
 - SASS, SCSS
 - Bootstrap
 - JavaScript
-- Базы данных (PostgreSQL, MongoDB)
+- Базы данных (PostgreSQL, MySQL, MongoDB)
 - Git
 - React
 
